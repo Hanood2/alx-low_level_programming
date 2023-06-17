@@ -11,16 +11,16 @@
 */
 int main(void)
 {
-int num;
+int digit;
 
-num = '0';
-while (num <= '9')
+digit = '0';
+while (digit <= '9')
 {
-putchar(num);
-if (num != '9')
+putchar(digit);
+if (digit != '9')
 putchar(',');
 putchar(' ');
-num++;
+digit++;
 }
 putchar('\n');
 return (0);
