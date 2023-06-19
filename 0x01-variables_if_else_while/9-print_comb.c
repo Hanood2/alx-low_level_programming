@@ -5,7 +5,7 @@
 /**
 * main - Entry point
 *
-* Description: 'prints all the numbers  with space & ,'
+* Description: 'prints all the numbers  with space&,'
 *
 * Return: Always 0 (Success)
 */
